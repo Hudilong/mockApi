@@ -1,0 +1,82 @@
+{
+    "user":{
+        "id": 0,
+        "firstName": "Ian",
+        "lastName": "Hudiciourt",
+        "title" : "Software Developer",
+        "isVaccinated": true,
+        "hasCompletedForm": false,
+        "hasBeenTested": false
+    },
+    "banners": [
+        {
+            "utilities": [
+                {
+                    "imageUrl": "",
+                    "linkUrl": ""
+                },
+                {
+                    "imageUrl": "",
+                    "linkUrl": ""
+                }
+            ],
+            "communications": [
+                {
+                    "imageUrl": "",
+                    "linkUrl": ""
+                },
+                {
+                    "imageUrl": "",
+                    "linkUrl": ""
+                },
+                {
+                    "imageUrl": "",
+                    "linkUrl": ""
+                }
+            ]
+        }
+    ],
+    "favorites": [
+        {
+            "id": 0,
+            "title": "Secure Entry Ecosystem",
+            "icon": "safeEntry",
+            "link": "exp://192.168.1.159:19000/--/TestQR"
+        },
+        {
+            "id": 1,
+            "title": "Covid Short Form",
+            "icon": "form",
+            "link": "exp://192.168.1.159:19000/--/SelfAssessment"
+        },
+        {
+            "id": 2,
+            "title": "Speed Test",
+            "icon": "form",
+            "link": "https://www.speedtest.net/"
+        },
+        {
+            "id": 3,
+            "title": "Reserve Equipment",
+            "icon": "equipment",
+            "link": ""
+        }
+    ],
+    "notifications": [
+        {
+            "id": 0,
+            "title": "You have been invited to an event",
+            "detail": "Louis Lemay has added you the the guest list for 'Party de Noel 2021', please bring some nice shoes. Food will be provided but BYOB",
+            "isRead": false
+        },
+        {
+            "id": 1,
+            "title": "B317 reservation starts now",
+            "detail": "Your reservation starts now, if you do not check-in in the next fifteen minutes, it will be canceled.",
+            "isRead": false
+        }
+    ],
+    "logs": [
+        {}
+    ]
+}
