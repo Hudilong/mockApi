@@ -41,13 +41,13 @@
             "id": 0,
             "title": "Secure Entry Ecosystem",
             "icon": "safeEntry",
-            "link": "lemayapp/TestQR"
+            "link": "lemayapp://TestQR"
         },
         {
             "id": 1,
             "title": "Covid Short Form",
             "icon": "form",
-            "link": "lemayapp/SelfAssessment"
+            "link": "lemayapp://SelfAssessment"
         },
         {
             "id": 2,
@@ -59,7 +59,7 @@
             "id": 3,
             "title": "Geolocate",
             "icon": "network",
-            "link": "lemayapp/Geolocate"
+            "link": "lemayapp://Geolocate"
         }
     ],
     "notifications": [
