@@ -41,13 +41,13 @@
             "id": 0,
             "title": "Secure Entry Ecosystem",
             "icon": "safeEntry",
-            "link": "exp://192.168.1.159:19000/--/TestQR"
+            "link": "lemayapp/TestQR"
         },
         {
             "id": 1,
             "title": "Covid Short Form",
             "icon": "form",
-            "link": "exp://192.168.1.159:19000/--/SelfAssessment"
+            "link": "lemayapp/SelfAssessment"
         },
         {
             "id": 2,
