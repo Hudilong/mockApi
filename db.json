@@ -57,9 +57,9 @@
         },
         {
             "id": 3,
-            "title": "Reserve Equipment",
-            "icon": "equipment",
-            "link": ""
+            "title": "Geolocate",
+            "icon": "network",
+            "link": "lemayapp/Geolocate"
         }
     ],
     "notifications": [
