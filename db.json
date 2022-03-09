@@ -45,9 +45,9 @@
         },
         {
             "id": 1,
-            "title": "Covid Short Form",
-            "icon": "form",
-            "link": "lemayapp://SelfAssessment"
+            "title": "Open Browser",
+            "icon": "network",
+            "link": "/browser/lemay.com"
         },
         {
             "id": 2,
