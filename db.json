@@ -41,7 +41,7 @@
             "id": 0,
             "title": "Secure Entry Ecosystem",
             "icon": "safeEntry",
-            "link": "lemayapp://TestQR"
+            "link": "lemayapp://ScanSES"
         },
         {
             "id": 1,
