@@ -45,21 +45,21 @@
         },
         {
             "id": 1,
-            "title": "Open Browser",
-            "icon": "network",
-            "link": "/browser/lemay.com"
+            "title": "Contact Tracing",
+            "icon": "contactTracing",
+            "link": "lemayapp://ContactTracing"
         },
         {
             "id": 2,
-            "title": "Speed Test",
-            "icon": "form",
-            "link": "https://www.speedtest.net/"
+            "title": "Test Result",
+            "icon": "safeEntry",
+            "link": "lemayapp://TestResult"
         },
         {
             "id": 3,
-            "title": "Geolocate",
-            "icon": "network",
-            "link": "lemayapp://Geolocate"
+            "title": "Health Recommendations",
+            "icon": "health",
+            "link": "lemayapp://HealthRecommendations"
         }
     ],
     "notifications": [
