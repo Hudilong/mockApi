@@ -39,8 +39,8 @@
     "favorites": [
         {
             "id": 0,
-            "title": "Secure Entry Ecosystem",
-            "icon": "safeEntry",
+            "title": "Secure Entry System",
+            "icon": "ses",
             "link": "lemayapp://ScanSES"
         },
         {
@@ -52,7 +52,7 @@
         {
             "id": 2,
             "title": "Test Result",
-            "icon": "safeEntry",
+            "icon": "ses",
             "link": "lemayapp://TestResult"
         },
         {
