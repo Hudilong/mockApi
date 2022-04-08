@@ -39,7 +39,7 @@
     "favorites": [
         {
             "id": 0,
-            "title": "Secure Entry System",
+            "title": "Safe Entry System",
             "icon": "ses",
             "link": "lemayapp://ScanSES"
         },
