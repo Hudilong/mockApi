@@ -41,25 +41,29 @@
             "id": 0,
             "title": "Safe Entry System",
             "icon": "ses",
-            "link": "lemayapp://ScanSES"
+            "link": "lemayapp://ScanSES",
+            "module": "Health"
         },
         {
             "id": 1,
             "title": "Contact Tracing",
             "icon": "contactTracing",
-            "link": "lemayapp://ContactTracing"
+            "link": "lemayapp://ContactTracing",
+            "module": "Health"
         },
         {
             "id": 2,
             "title": "Test Result",
             "icon": "ses",
-            "link": "lemayapp://TestResult"
+            "link": "lemayapp://TestResult",
+            "module": "Health"
         },
         {
             "id": 3,
             "title": "Health Recommendations",
             "icon": "health",
-            "link": "lemayapp://HealthRecommendations"
+            "link": "lemayapp://HealthRecommendations",
+            "module": "Health"
         }
     ],
     "notifications": [
